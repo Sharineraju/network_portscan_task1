@@ -1,0 +1,16 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-10-20 18:03 +0530
+Stats: 0:00:01 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
+ARP Ping Scan Timing: About 9.80% done; ETC: 18:03 (0:00:09 remaining)
+Stats: 0:00:02 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
+ARP Ping Scan Timing: About 19.61% done; ETC: 18:03 (0:00:08 remaining)
+Nmap scan report for 192.168.2.20
+Host is up (0.00s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+902/tcp open  iss-realsecure
+912/tcp open  apex-mesh
+
+Nmap done: 256 IP addresses (1 host up) scanned in 11.33 seconds
